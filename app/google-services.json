@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296305883920",
+    "project_id": "triclone-app",
+    "storage_bucket": "triclone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296305883920:android:4f00cf4ed15f693cc14395",
+        "android_client_info": {
+          "package_name": "com.generic_corp.triclonetechnologies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296305883920-531nq2e95qc9q07sf727k5lvra12c503.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN7qOKitJ814ltSASDO-xuF-I9Y39VF4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296305883920-531nq2e95qc9q07sf727k5lvra12c503.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
